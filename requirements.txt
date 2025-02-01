@@ -1,5 +1,5 @@
 pytube==12.1.0
 python-telegram-bot==12.1.0
 instaloader==4.9.1
-pinterest-scraper==1.0.0
+pinterest-api==1.0.0
 requests==2.28.1
